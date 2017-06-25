@@ -68,3 +68,39 @@ D:\Documentos\Visual Studio 2017\Projects\TCC\TCC\obj\Debug\YVV.dll
 D:\Documentos\Visual Studio 2017\Projects\TCC\TCC\obj\Debug\YVV.pdb
 D:\Documentos\Visual Studio 2017\Projects\TCC\TCC\bin\RestSharp.dll
 D:\Documentos\Visual Studio 2017\Projects\TCC\TCC\bin\RestSharp.xml
+D:\Documentos\NetBeansProjects\CentOS7\c#\TCC\bin\roslyn\csc.exe
+D:\Documentos\NetBeansProjects\CentOS7\c#\TCC\bin\roslyn\csc.exe.config
+D:\Documentos\NetBeansProjects\CentOS7\c#\TCC\bin\roslyn\csc.rsp
+D:\Documentos\NetBeansProjects\CentOS7\c#\TCC\bin\roslyn\csi.exe
+D:\Documentos\NetBeansProjects\CentOS7\c#\TCC\bin\roslyn\csi.rsp
+D:\Documentos\NetBeansProjects\CentOS7\c#\TCC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documentos\NetBeansProjects\CentOS7\c#\TCC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documentos\NetBeansProjects\CentOS7\c#\TCC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Documentos\NetBeansProjects\CentOS7\c#\TCC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documentos\NetBeansProjects\CentOS7\c#\TCC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documentos\NetBeansProjects\CentOS7\c#\TCC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documentos\NetBeansProjects\CentOS7\c#\TCC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documentos\NetBeansProjects\CentOS7\c#\TCC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Documentos\NetBeansProjects\CentOS7\c#\TCC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Documentos\NetBeansProjects\CentOS7\c#\TCC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documentos\NetBeansProjects\CentOS7\c#\TCC\bin\roslyn\System.AppContext.dll
+D:\Documentos\NetBeansProjects\CentOS7\c#\TCC\bin\roslyn\System.Collections.Immutable.dll
+D:\Documentos\NetBeansProjects\CentOS7\c#\TCC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Documentos\NetBeansProjects\CentOS7\c#\TCC\bin\roslyn\System.IO.FileSystem.dll
+D:\Documentos\NetBeansProjects\CentOS7\c#\TCC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Documentos\NetBeansProjects\CentOS7\c#\TCC\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documentos\NetBeansProjects\CentOS7\c#\TCC\bin\roslyn\vbc.exe
+D:\Documentos\NetBeansProjects\CentOS7\c#\TCC\bin\roslyn\vbc.exe.config
+D:\Documentos\NetBeansProjects\CentOS7\c#\TCC\bin\roslyn\vbc.rsp
+D:\Documentos\NetBeansProjects\CentOS7\c#\TCC\bin\roslyn\VBCSCompiler.exe
+D:\Documentos\NetBeansProjects\CentOS7\c#\TCC\bin\roslyn\VBCSCompiler.exe.config
+D:\Documentos\NetBeansProjects\CentOS7\c#\TCC\bin\YVV.dll.config
+D:\Documentos\NetBeansProjects\CentOS7\c#\TCC\bin\YVV.dll
+D:\Documentos\NetBeansProjects\CentOS7\c#\TCC\bin\YVV.pdb
+D:\Documentos\NetBeansProjects\CentOS7\c#\TCC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documentos\NetBeansProjects\CentOS7\c#\TCC\bin\RestSharp.dll
+D:\Documentos\NetBeansProjects\CentOS7\c#\TCC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documentos\NetBeansProjects\CentOS7\c#\TCC\bin\RestSharp.xml
+D:\Documentos\NetBeansProjects\CentOS7\c#\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+D:\Documentos\NetBeansProjects\CentOS7\c#\TCC\obj\Debug\YVV.dll
+D:\Documentos\NetBeansProjects\CentOS7\c#\TCC\obj\Debug\YVV.pdb

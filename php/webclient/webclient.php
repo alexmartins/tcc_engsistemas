@@ -26,7 +26,6 @@ if ($protocolo == 'rest')
 	$clima = json_decode($curl_response);
 }	
 ?>
-
 <!DOCTYPE html>
 <html>
 <head>
