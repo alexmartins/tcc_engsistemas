@@ -12,13 +12,14 @@ namespace TCC
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            int cep = Convert.ToInt32(Request.Form["cep"]);
+            string cep = Request.Form["cep"].ToString();
             string protocolo = Request.Form["protocolo"].ToString();
+            string clima = "";
 
             if (protocolo == "soap")
             {
                 var service = new TCC.Clima.ClimaPortClient();
-                lblTempo.Text = service.previsao(cep);
+                clima = service.previsao(Convert.ToInt32(cep));
             }
 
             if (protocolo == "rest")
@@ -30,8 +31,11 @@ namespace TCC
                 request.AddParameter("cep", cep);
 
                 IRestResponse response = client.Execute(request);
-                lblTempo.Text = new System.Web.Script.Serialization.JavaScriptSerializer().DeserializeObject(response.Content).ToString();
+                clima = new System.Web.Script.Serialization.JavaScriptSerializer().DeserializeObject(response.Content).ToString();
             }
+
+            lblCep.Text = cep;
+            lblTempo.Text = clima;
         }
     }
 }
